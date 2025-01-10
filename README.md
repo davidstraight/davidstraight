@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davidstraight
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning electron front ends
 - 💞️ I’m looking to collaborate on anything
 
 <!---
